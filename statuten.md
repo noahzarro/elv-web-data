@@ -83,10 +83,6 @@ Der Vorstand besteht aus 9 Mitgliedern. Er setzt sich aus den folgenden Position
 - Organisiert Samichlaus
 - Backt Grittibänzen
 
-**CJO - Chief Josua Officer**
-- Pimpt Noahs Laptop
-- Labert über LUKS und Veracrypt
-
 **CGO I - Chief Gispel Officer**
 - Herumgispeln 
 - Beisitzer
