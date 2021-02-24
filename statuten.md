@@ -19,7 +19,7 @@ Die Mittel des Vereins zur Verfolgung des Vereinszwecks bestehen aus:
 Mitglieder des Vereins können nur natürliche Personen werden. Die Anmeldung zur Mitgliedschaft hat schriftlich an den Vorstand zu erfolgen, der über die Aufnahme endgültig entscheidet.
 
 ### Artikel 5 - Austritt und Ausschluss
-Der Austritt aus dem Verein ist jederzeit möglich. Er ist dem Vorstand schriftlich mitzuteilen.
+Der Austritt aus dem Verein ist jederzeit möglich, jedoch erst frühstens vier Jahre nach dem Eintritt. Er ist dem Vorstand schriftlich mitzuteilen.
 
 Der Vorstand kann ein Mitglied, das den Interessen des Vereins zuwiderhandelt, ausschliessen. Der Ausschluss erfolgt durch Mehrheitsbeschluss des Vorstandes. Gegen einen Ausschliessungsbeschluss des Vorstandes kann das ausgeschlossene Mitglied innert 30 Tagen seit der schriftlichen Mitteilung desselben an die nächste Vereinsversammlung rekurrieren. Der Rekurs ist dem Vorstand einzureichen. Die Vereinsversammlung entscheidet mit einer einfachen Mehrheit der anwesenden Mitglieder definitiv über die Einsprache.
 
