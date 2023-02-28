@@ -2,7 +2,7 @@
 ### Artikel 1 - Name und Sitz
 Unter dem Namen
 
-*ETH-Lernverein* 
+*ETH-Lerngruppenverein* 
 
 besteht mit Sitz in Zürich ZH ein Verein im Sinne von Art. 60 ff. des Schweizerischen Zivilgesetzbuches.
 
@@ -32,8 +32,8 @@ Die Organe des Vereins sind:
 ### Artikel 7 - Die Vereinsversammlung
 Die Vereinsversammlung ist das oberste Organ des Vereins. In ihre Kompetenz fallen insbesondere: 
 1. Wahl und Abberufung der Mitglieder des Vorstandes; 
-2. Wahl des Präsidenten des Vorstandes; 
-3. Wahl der Rechnungsrevisoren; 
+2. Wahl des Präsidenten/ der Präsidentin des Vorstandes; 
+3. Wahl der Rechnungsrevisor:innen; 
 4. Abnahme der Vereinsrechnung; 
 5. Déchargeerteilung an den Vorstand; 
 7. Festsetzung der von den Mitgliedern zu leistenden Beiträge; 
@@ -55,7 +55,7 @@ An der Vereinsversammlung besitzt jedes Mitglied eine Stimme. Die Vereinsversamm
 ### Artikel 10 - Der Vorstand
 Der Vorstand besteht aus 9 Mitgliedern. Er setzt sich aus den folgenden Positionen mit ihren jeweiligen Befugnissen zusammen:
 
-**Präsident**
+**Präsident:in**
 - Vorbereitung und Leitung der Vereinsversammlung
 - Leitung der Vorstandssitzungen
 
@@ -74,22 +74,22 @@ Der Vorstand besteht aus 9 Mitgliedern. Er setzt sich aus den folgenden Position
 - Blockchain einbringen
 - Uhurengeile Projekte
 
-**Aktuar**
+**Aktuar:in**
 - Protokoll
 - Mitgliederverwaltung
 - Broschürengispelei
 
-**CSO - Chief Samichlaus Officer**
-- Organisiert Samichlaus
-- Backt Grittibänzen
+**CSO - Chief Samichlaus:in Officer**
+- Organisiert Samichlaus:in
+- Backt Grittibänz:innen
 
 **CGO I - Chief Gispel Officer**
 - Herumgispeln 
-- Beisitzer
+- Beisitzer:in
 
 **CGO II - Chief Gospel Officer**
-- Religiöser Sänger 
-- Beisitzer
+- Religiöse:r Sänger:in
+- Beisitzer:in
 
 **COO - Chief Outdoor Officer**
 - Events
@@ -102,11 +102,11 @@ Im Übrigen stehen dem Vorstand alle weiteren Befugnisse zu, die nicht ausdrück
 Nach aussen wird der Verein durch den Vorstand vertreten. Vorstandsmitglieder sind alle alleine zeichnungsberechtigt.
 
 ### Artikel 12 – Die Rechnungsrevisoren
-Die Vereinsversammlung wählt jeweils auf die Dauer eines Jahres eine oder zwei natürliche Personen als Rechnungsrevisor*innen. Die Revision kann auch einer juristischen Person allein übertragen werden (z.B. Treuhandgesellschaft, Affentext usw.).
+Die Vereinsversammlung wählt jeweils auf die Dauer eines Jahres eine oder zwei natürliche Personen als Rechnungsrevisor:innen. Die Revision kann auch einer juristischen Person allein übertragen werden (z.B. Treuhandgesellschaft, Affentext usw.).
 
-Revisor*innen dürfen nicht gleichzeitig das Amt des CFO ausüben.
+Revisor:innen dürfen nicht gleichzeitig das Amt des CFO ausüben.
 
-Die Rechnung des Vereins ist jährlich abzuschliessen. Die Revisor*innen sind verpflichtet, die Jahresrechnung des Vereins zu prüfen und der ordentlichen Vereinsversammlung über das Ergebnis ihrer Prüfung Bericht zu erstatten.
+Die Rechnung des Vereins ist jährlich abzuschliessen. Die Revisor:innen sind verpflichtet, die Jahresrechnung des Vereins zu prüfen und der ordentlichen Vereinsversammlung über das Ergebnis ihrer Prüfung Bericht zu erstatten.
 
 ### Artikel 13 – Haftung
 Für die Verbindlichkeiten des Vereins haftet nur das Vereinsvermögen. Jede persönliche Haftung seiner Mitglieder ist ausdrücklich ausgeschlossen.
@@ -117,8 +117,17 @@ Zur Auflösung des Vereins bedarf es der Zustimmung von einer Stimme mehr als di
 Das nach Bezahlung aller Schulden und sonstiger Abgaben und nach Begleichung anderweitiger Verpflichtungen verbleibende Reinvermögen ist bei einem Festschmaus für alle Mitglieder an einem einzigen Abend zu verprassen.
 
 ### Artikel 15 – Inkrafttreten
-Diese Statuten sind an der Gründungsversammlung vom `Datum einfügen` angenommen worden und sind mit diesem Datum in Kraft getreten.
+Diese Statuten sind an der Gründungsversammlung vom 28.02.2023 angenommen worden und sind mit diesem Datum in Kraft getreten.
 
-Unterschrift von einem Gründungsmitglied:
+Unterschrift von mindestens einem Gründungsmitglied:
 
-`Unterschrift einfügen`
+*Nina Bitchest Mörgeli* @ninamo
+*Josua Yuki Graf* @grafjo
+*Martin Gispel Ulmer* @mulmer
+*Noah Gispello Zarro* @zarron
+*Andrea Elizabeth Maria Mock Caceres* @mocandre
+*Mettao Nacoli Enderagg* @matteoa
+*Pascal Andreas (ohne Kriegsloch) Schärli* @pascscha
+*Julia Sajuri Gygax* @jgygax
+*Andrew Ross Erwin* @airvine
+*Carina Johanna Badest Fuss wie Hand* @cfuss
