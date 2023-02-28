@@ -72,6 +72,7 @@ Der Vorstand besteht aus 9 Mitgliedern. Er setzt sich aus den folgenden Position
 
 **CIO - Chief Innovation Officer**
 - Blockchain einbringen
+- AI/KI
 - Uhurengeile Projekte
 
 **Aktuar:in**
@@ -84,7 +85,8 @@ Der Vorstand besteht aus 9 Mitgliedern. Er setzt sich aus den folgenden Position
 - Backt Grittibänz:innen
 
 **CGO I - Chief Gispel Officer**
-- Herumgispeln 
+- Herumgispeln
+- Memes erstellen
 - Beisitzer:in
 
 **CGO II - Chief Gospel Officer**
