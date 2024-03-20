@@ -1,13 +1,10 @@
-$(document).ready(() => {
-    console.log("gitter")
+function displayMarkdown(url) {
     var converter = new showdown.Converter();
     $.ajax({
-        url: 'statuten.md',
+        url: url,
         success: function(data) {
             var html = converter.makeHtml(data);
-
             $("#md").html(html)
         }
     });
-
-})
+}
