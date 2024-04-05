@@ -31,11 +31,11 @@ Die Organe des Vereins sind:
 
 ### Artikel 7 - Die Vereinsversammlung
 Die Vereinsversammlung ist das oberste Organ des Vereins. In ihre Kompetenz fallen insbesondere: 
+4. Abnahme der Vereinsrechnung; 
+5. Déchargeerteilung an den Vorstand; 
 1. Wahl und Abberufung der Mitglieder des Vorstandes; 
 2. Wahl des Präsidenten/ der Präsidentin des Vorstandes; 
 3. Wahl der Rechnungsrevisor:innen; 
-4. Abnahme der Vereinsrechnung; 
-5. Déchargeerteilung an den Vorstand; 
 7. Festsetzung der von den Mitgliedern zu leistenden Beiträge; 
 8. Beschlussfassung über Annahme und Änderung der Statuten; 
 9. Rekursentscheide über Ausschliessungsbeschlüsse des Vorstandes;
