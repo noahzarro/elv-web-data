@@ -16,7 +16,7 @@ Die Mittel des Vereins zur Verfolgung des Vereinszwecks bestehen aus:
 - Freiwillige Zuwendungen (Sponsorengelder, Schenkungen, Vermächtnisse etc.)
 
 ### Artikel 4 - Mitgliedschaft
-Mitglieder des Vereins können nur natürliche Personen werden. Die Anmeldung zur Mitgliedschaft hat schriftlich an den Vorstand zu erfolgen, der über die Aufnahme endgültig entscheidet.
+Mitglieder des Vereins können nur natürliche Personen werden. Die Anmeldung zur Mitgliedschaft hat schriftlich an das Ämtli HS zu erfolgen, das eine Umfrage under den Mitglieder entstellt, ob die Person angenommen wird.
 
 ### Artikel 5 - Austritt und Ausschluss
 Der Austritt aus dem Verein ist jederzeit möglich, jedoch erst frühstens vier Jahre nach dem Eintritt. Er ist dem Vorstand schriftlich mitzuteilen.
@@ -28,14 +28,16 @@ Die Organe des Vereins sind:
 1. die Vereinsversammlung 
 2. der Vorstand 
 3. die Rechnungsrevisoren
+5. das Ämtli HS
 
 ### Artikel 7 - Die Vereinsversammlung
 Die Vereinsversammlung ist das oberste Organ des Vereins. In ihre Kompetenz fallen insbesondere: 
-4. Abnahme der Vereinsrechnung; 
-5. Déchargeerteilung an den Vorstand; 
-1. Wahl und Abberufung der Mitglieder des Vorstandes; 
-2. Wahl des Präsidenten/ der Präsidentin des Vorstandes; 
-3. Wahl der Rechnungsrevisor:innen; 
+1. Abnahme der Vereinsrechnung; 
+2. Déchargeerteilung an den Vorstand; 
+3. Wahl und Abberufung der Mitglieder des Vorstandes; 
+4. Wahl des Präsidenten/ der Präsidentin des Vorstandes; 
+5. Wahl des Ämtli HS
+6. Wahl der Rechnungsrevisor:innen; 
 7. Festsetzung der von den Mitgliedern zu leistenden Beiträge; 
 8. Beschlussfassung über Annahme und Änderung der Statuten; 
 9. Rekursentscheide über Ausschliessungsbeschlüsse des Vorstandes;
