@@ -107,7 +107,7 @@ Ein Mitglied kann immer nur eine Position gleichzeitig besetzen.
 Im Übrigen stehen dem Vorstand alle weiteren Befugnisse zu, die nicht ausdrücklich durch das Gesetz oder die Statuten einem anderen Vereinsorgan vorbehalten sind.
 
 ### Artikel 11 - Vertretung und Zeichnungsberechtigung
-Nach aussen wird der Verein durch den Vorstand vertreten. Vorstandsmitglieder sind alle alleine zeichnungsberechtigt.
+Nach aussen wird der Verein durch den Vorstand vertreten. Vorstandsmitglieder sind alle zu zweit zeichnungsberechtigt.
 
 ### Artikel 12 – Die Rechnungsrevisoren
 Die Vereinsversammlung wählt jeweils auf die Dauer eines Jahres eine oder zwei natürliche Personen als Rechnungsrevisor:innen. Die Revision kann auch einer juristischen Person allein übertragen werden (z.B. Treuhandgesellschaft, Affentext usw.).
