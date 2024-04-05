@@ -93,8 +93,14 @@ Der Vorstand besteht aus 9 Mitgliedern. Er setzt sich aus den folgenden Position
 - Religiöse:r Sänger:in
 - Beisitzer:in
 
+**CFO II - Chief Ferien Officer**
+- Ferien anreissen und OK bilden
+
 **COO - Chief Outdoor Officer**
-- Events
+- Events Outdoor
+
+**CIO II - Chief Indoor Officer**
+- Events Indoor
 
 Ein Mitglied kann immer nur eine Position gleichzeitig besetzen.
 
